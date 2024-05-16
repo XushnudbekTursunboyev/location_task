@@ -1,16 +1,5 @@
 # location_task
 
-A new Flutter project.
 
-## Getting Started
+![photo_2024-05-16_12-12-55](https://github.com/XushnudbekTursunboyev/location_task/assets/86800818/e51cf5be-280f-47c1-8eb8-bd58fafda36c)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
